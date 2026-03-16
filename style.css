@@ -56,6 +56,12 @@
     left: 600px;
 }
 
+.h1-c1-about {
+    margin-top: -250px;
+    position: absolute;
+    left: 600px
+}
+
 .li-C1 { 
     border: solid black 5px;
     margin: 10px;
