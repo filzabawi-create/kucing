@@ -69,6 +69,11 @@
     height: 30%;
 }
 
+.li-about {
+    border: 5px solid black
+    padding: 10px
+        }
+
 .div-FTR { 
     display: flex;
     justify-content: center;
