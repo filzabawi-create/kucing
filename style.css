@@ -71,8 +71,9 @@
 
 .li-about {
     border: solid black 5px;
-    padding: 10px;
+    padding: 5px;
     margin: 8px;
+    list-style-type: none;
         }
 
 .div-FTR { 
