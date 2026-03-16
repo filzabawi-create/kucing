@@ -70,8 +70,9 @@
 }
 
 .li-about {
-    border: 5px solid black;
+    border: solid black 5px;
     padding: 10px;
+    backgroun-color: white
         }
 
 .div-FTR { 
